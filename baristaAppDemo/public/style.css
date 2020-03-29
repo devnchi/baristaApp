@@ -1,0 +1,14 @@
+*{
+  box-sizing: border-box;
+}
+body{
+  background-image: url("./img/coffeArtBg.jpg");
+  background-repeat: no-repeat;
+  background-size: cover;
+  font-size: 18px;
+}
+.jumbotron{
+  width: 30%;
+  margin-top: 15%;
+  background-color: brown;
+}
